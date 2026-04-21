@@ -66,9 +66,3 @@ This project analyzes a bank’s marketing funnel to identify drop-offs, high-pe
 - `bank_marketing_CLEANED.csv` – Cleaned dataset  
 
 ---
-
-## 🚀 How to Run
-
-```bash
-pip install pandas matplotlib seaborn
-python task3_funnel_analysis.py
