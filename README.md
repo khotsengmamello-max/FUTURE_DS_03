@@ -23,7 +23,7 @@ This project analyzes a bank’s marketing funnel to identify drop-offs, high-pe
 ## 📸 Dashboard Preview (Power BI)
 
 <p align="center">
-  <img src="images/dashboard.png" width="800"/>
+  <img src="images/dashboard.png.png" width="800"/>
 </p>
 
 ---
